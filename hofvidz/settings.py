@@ -27,7 +27,7 @@ SECRET_KEY = '$_guwm#8-mcf1r^j_&!omtp6nzmv++ne)v70r1m7kf0_rp994c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['safe-hamlet-50812.herokuapp.com']
 
 
 LOGIN_URL = 'login'
